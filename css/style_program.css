@@ -1,0 +1,120 @@
+body {
+	color : #888;
+	font-family : 'Open Sans', 'Helvetica', 'Segoe UI';
+	font-size : 14px;
+}
+
+h3, h2, h4, h8{
+	color : black;
+}
+
+h8 {
+	font : Segoe UI;
+	padding : 50dp;
+}
+
+h1 {
+	color :#2C3E50 ;
+}
+
+.section {
+	padding : 20px 0;
+}
+
+.container {
+	width : 1056px;
+	margin : auto;
+}
+
+.clear {
+	clear :both;
+}
+
+.right {
+	float : right;
+	background-attachment : #EAF2F8;
+}
+
+#section1 {
+	background-color : #EAF2F8;
+	padding:10dp;
+}
+
+#section1 ul>li>a {
+	color : black;
+}
+
+#section1 ul>li:hover {
+	background-color:#DAF3D3;
+}
+
+#section2 {
+	background-color : #EAF2F8;
+	padding:10dp;
+}
+
+#section3 {
+	padding : 50dp;
+	background-color : #FEFE82;
+}
+
+#section4 {
+	background-color : #FFFFFF;
+	padding:30dp;
+	margin-top : 30px;
+	margin-bottom : 30px;
+}
+
+#section5 {
+	background-color :#FFFFFF;
+	padding : 10dp;
+	margin-top : 10px;
+	margin-bottom :30px;
+	text-align: center;
+	color : black;
+}
+
+.sec2left {
+	padding : 20dp;
+	float : left;
+}
+
+.sec2right{
+    float : right;
+}
+
+.row{
+	margin-bottom : 50px;
+}
+
+#linkedin:hover{
+	background-color:#007FB1;
+}
+
+#facebook:hover{
+	background-color:#3B5998;
+}
+
+#twitter:hover{
+	background-color:#3498DB;
+}
+
+#youtube:hover{
+	background-color:#E74C3C;
+}
+
+#instagram:hover{
+	background-color:#EBDEF0;
+}
+
+#highlight {
+	border: solid 2px red;
+}
+
+.card-body-program{
+    height: 200px;
+    padding: 20px;
+    position: relative;
+}
+
+

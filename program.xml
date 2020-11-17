@@ -1,0 +1,17 @@
+<layanan>
+    <program>
+        <judul>JalanYuk!!</judul>
+        <tag>Persiapkan Liburanmu</tag>
+		<tag2>Wujudkan mimpi liburanmu dengan mudah dan menyenagkan dengan #JalanYuk</tag2>
+    </program>
+    <program>
+        <judul>Nabung Seru</judul>
+        <tag>Simpan asset keuanganmu dengan Wang</tag>
+		<tag2>Nikmati layanan menabung yang seru dan terjamin tanpa potongan perbulan</tag2>
+    </program>
+	<program>
+        <judul>CaPePa (Catat Pemasukan Pengeluaran)</judul>
+        <tag>Tetap hemat dengan Wang</tag>
+		<tag2>Catat pemasukan dan pengeluaranmy untuk mewujudkan kebutuhanmu</tag2>
+    </program>
+</layanan>

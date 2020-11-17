@@ -1,0 +1,25 @@
+body {
+}
+
+#section1 {
+	background-color : #F4F4F4;
+}
+
+.section {
+	padding : 20px 0;
+}
+
+.container {
+	width : 1056px;
+	margin : auto;
+}
+
+.form-group {
+	margin-left:200px;
+	margin-right:200px;
+}
+
+.btn {
+	margin-left:200px;
+	margin-right:200px;
+}
